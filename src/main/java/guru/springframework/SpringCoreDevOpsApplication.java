@@ -11,6 +11,6 @@ public class SpringCoreDevOpsApplication {
 
 		//this is a whitespace change test
 		// another test...
-		// We have to migrate this to JDK17
+		// We have to migrate this to JDK17 adn again
 	}
 }
